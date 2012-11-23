@@ -1,0 +1,5 @@
+E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\bin\Release\Combinations.exe
+E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\bin\Release\Combinations.pdb
+E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Release\ResolveAssemblyReference.cache
+E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Release\Combinations.exe
+E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Release\Combinations.pdb
