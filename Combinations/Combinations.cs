@@ -5,16 +5,37 @@ using System.Text;
 
 namespace Combinations
 {
+    /// <summary>
+    /// Provides static methods for getting all k-element combinations from a given set of elements (array)
+    /// </summary>
     public static class Combinations
     {
+        /// <summary>
+        /// Returns all k-element subsets int[][] of array int[]
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="k">Number of elements in subset</param>
+        /// <returns>All k-element sybsets of array int[]</returns>
         public static int[][] Get(int[] array, int k)
         {
             return Get<int>(array, k);
         }
+        /// <summary>
+        /// Returns all k-element subsets double[][] of array double[]
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="k">Number of elements in subset</param>
+        /// <returns>All k-element sybsets of array double[]</returns>
         public static double[][] Get(double[] array, int k)
         {
             return Get<double>(array, k);
         }
+        /// <summary>
+        /// Returns all k-element subsets T[][] of array T[]
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="k">Number of elements in subset</param>
+        /// <returns>All k-element sybsets of array T[]</returns>
         public static T[][] Get<T>(T[] array, int k)
         {
             if (k < 1 || k > array.Length)
@@ -40,7 +61,7 @@ namespace Combinations
              * index to be changet is k and all indices on the right side
              * after changes: 0,k+1,k+2,k+3,k+4.
              * 
-             * So indices are changed as follows (k=5, array.Length = 10:
+             * So indices are changed as follows (k=5, array.Length = 10):
              * from {0,1,2,3,4} -> {0,1,2,3,5} -> {0,1,2,3,6} -...-> {0,1,2,3,9}->
              * {0,1,2,4,5} -> {0,1,2,4,6} -...-> 
              * and finally comes to {5,6,7,8,9}

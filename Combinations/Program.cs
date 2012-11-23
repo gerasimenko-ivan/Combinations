@@ -11,7 +11,7 @@ namespace Combinations
         {
             int[] array = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             int[][] subsets = Combinations.Get(array, 4);
-
+            
             for (int i = 0; i <= subsets.GetUpperBound(0); i++)
             {
                 Console.Write(" {0} :: ", i);

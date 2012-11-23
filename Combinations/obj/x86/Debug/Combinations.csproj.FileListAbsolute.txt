@@ -3,3 +3,8 @@ E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\bin\Debug\Com
 E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Debug\Combinations.exe
 E:\PROGRAMMS\C# Programms\MY_TASKS\C^n_k\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\Documents and Settings\Administrator\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\Documents and Settings\Administrator\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\Documents and Settings\Administrator\Combinations\Combinations\bin\Debug\Combinations.exe
+C:\Documents and Settings\Administrator\Combinations\Combinations\bin\Debug\Combinations.pdb
+C:\Documents and Settings\Administrator\Combinations\Combinations\obj\x86\Debug\ResolveAssemblyReference.cache
